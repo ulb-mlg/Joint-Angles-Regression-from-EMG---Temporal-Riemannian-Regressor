@@ -13,9 +13,14 @@ and the [__Leap Hand__](https://v1.leaphand.com/) for visualization.
 
 ![Acquisition framework](figures/figure_acquisition_framework.png)
 
+[![Watch the video](https://img.youtube.com/vi/fDK7dXqEAEI/0.jpg)](https://youtu.be/fDK7dXqEAEI)
+
 ## Experiment
 
 The folder `./experiments` contains notebooks for TRR implementation and benchmark evaluation.
+
+[![Watch the video](https://img.youtube.com/vi/KrlFlxpkc6g/0.jpg)](https://youtu.be/KrlFlxpkc6g)
+
 
 ![Acquisition angles](figures/figure_angles.png)
 
