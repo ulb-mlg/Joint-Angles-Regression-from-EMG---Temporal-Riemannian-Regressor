@@ -11,6 +11,8 @@ The acquisition framework, in `./acquisitionFramework`, uses the [__MindRove 8-c
 a standard consumer grade camera, [__MediaPipe__](https://mediapipe.readthedocs.io/en/latest/solutions/hands.html),
 and the [__Leap Hand__](https://v1.leaphand.com/) for visualization.
 
+Dataset : https://zenodo.org/records/19453843
+
 ![Acquisition framework](figures/figure_acquisition_framework.png)
 
 [![Watch the video](https://img.youtube.com/vi/fDK7dXqEAEI/0.jpg)](https://youtu.be/fDK7dXqEAEI)
