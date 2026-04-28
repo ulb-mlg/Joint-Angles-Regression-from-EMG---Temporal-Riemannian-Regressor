@@ -4,7 +4,7 @@ This repository contains an acquisition framework for synchronized forearm EMG a
 and notebooks to evaluate state-of-the-art EMG-to-joint-angles machine learning models
 against our *Temporal Riemannian Regressor* (TRR) approach. 
 
-**Paper:** https://arxiv.org/abs/2604.22499
+**Paper preprint:** https://arxiv.org/abs/2604.22499
 
 ## Acquisition framework
 
